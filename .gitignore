@@ -4,3 +4,4 @@
 *.binary
 *.elf
 *.bak
+deploy-test
